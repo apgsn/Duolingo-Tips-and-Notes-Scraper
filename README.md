@@ -1,7 +1,7 @@
 # Duolingo-Tips-and-Notes-Scraper
 <p>
-A simple Python 3 web scraper. After accessing your [Duolingo](https://www.duolingo.com) account, it scans the page looking for unlocked lessons that have tips and notes to download, then it puts them all together in a single HTML file.
-The script uses Firefox and [Selenium](https://github.com/SeleniumHQ).
+A simple Python 3 web scraper. After accessing your <a href="https://www.duolingo.com">Duolingo</a> account, it scans the page looking for unlocked lessons that have tips and notes to download, then it puts them all together in a single HTML file.
+  The script uses Firefox and <a href="https://github.com/SeleniumHQ">Selenium</a>.
 </p>
 <h3>How to use</h3>
 <p>
